@@ -7,13 +7,7 @@
   File Name:
     main.c
 
-  Summary:
-    This file contains the "main" function for an MPLAB Harmony project.
-
-  Description:
-    This file contains the "main" function for an MPLAB Harmony project.  The
-    "main" function calls the "SYS_Initialize" function to initialize the state 
-    machines of all MPLAB Harmony modules in the system and it calls the 
+  Summary:in the system and it calls the 
     "SYS_Tasks" function from within a system-wide "super" loop to maintain 
     their correct operation. These two functions are implemented in 
     configuration-specific files (usually "system_init.c" and "system_tasks.c")
