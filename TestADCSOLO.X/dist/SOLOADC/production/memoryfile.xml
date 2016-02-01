@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/SOLOADC/production/TestADCSOLO.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>2098304</length>                 
+      <used>9664</used>                     
+      <free>2088640</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>524288</length>                 
+      <used>224</used>                     
+      <free>524064</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
